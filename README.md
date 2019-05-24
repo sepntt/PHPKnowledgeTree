@@ -1,4 +1,4 @@
-# 迁移到[SeptnnDoc](https://github.com/sepntt/SeptnnDoc)
+# 迁移到[SeptnnDoc](https://github.com/sepntt/doc)
 # PHPKnowledgeTree
 PHPKnowledgeTree PHP知识树 PHP WEB 
 
